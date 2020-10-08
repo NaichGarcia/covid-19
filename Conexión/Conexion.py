@@ -1,7 +1,7 @@
 import pymongo as pm
 
 class Database(object):
-    URI="mongodb://root:FVo8Ujz3XAPxVLwn@cluster0-shard-00-00.eghxh.mongodb.net:27017,cluster0-shard-00-01.eghxh.mongodb.net:27017,cluster0-shard-00-02.eghxh.mongodb.net:27017/<dbname>?ssl=true&replicaSet=atlas-wjnr0i-shard-0&authSource=admin&retryWrites=true&w=majority"
+    URI="mongodb://fandres21:felipe1997@cluster0-shard-00-00.eghxh.mongodb.net:27017,cluster0-shard-00-01.eghxh.mongodb.net:27017,cluster0-shard-00-02.eghxh.mongodb.net:27017/<dbname>?ssl=true&replicaSet=atlas-wjnr0i-shard-0&authSource=admin&retryWrites=true&w=majority"
     DATABASE=None
 
     #Inicializa la conexión hacia MongoDB
@@ -27,10 +27,14 @@ class Database(object):
     @staticmethod
     def InsetOneData(collection,data):
         Database.DATABASE[collection].insert_one(data)
-
+    
     #Obtener datos de Database
     @staticmethod
     def Get_Data_from_database(collection):
         bd = Database.DATABASE[collection]
-        lista = bd.find()
-
+        array=[]
+        for x in bd.find():
+            array.append(x)
+            
+        #lista = bd.find()
+        return array
