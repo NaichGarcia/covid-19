@@ -24,5 +24,5 @@ data_dict = df.to_dict("records")
 #Imprime todas las ID creadas con respecto a los insert
 #print(result)
 
-z=db.Get_Data_from_database(collection)
-print(z)
+x=db.Bson_to_Json(db.Get_Data_from_database(collection),'Prueba')
+print(x)
