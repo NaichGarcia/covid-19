@@ -56,6 +56,6 @@ class Database(object):
     @staticmethod
     def Query(collection,dato,valor):
         bd = Database.DATABASE[collection] 
-        myquery = {dato:rest} 
+        myquery = {dato:valor} 
         result = bd.find(myquery) 
         return result
