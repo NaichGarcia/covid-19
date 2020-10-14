@@ -58,5 +58,5 @@ class Database(object):
         bd = Database.DATABASE[collection]
         myquery = {str(dato),str(rest)}
         result = bd.find(myquery)
-        for d in result:
-            print(d)
+
+        return result
