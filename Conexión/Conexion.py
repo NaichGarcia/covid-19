@@ -52,3 +52,11 @@ class Database(object):
         if path.exists('../Templates/'+nameFile+'.json'):
             return '{"statuscode" : 200,"File" : '+nameFile+'}'
         
+    #Consulta a mongo db de documentos segun un parametro
+    @staticmethod
+    def Query(collection,dato,rest):
+        bd = Database.DATABASE[collection]
+        myquery = {str(dato),str(rest)}
+        result = bd.find(myquery)
+        for d in result:
+            print(d)
