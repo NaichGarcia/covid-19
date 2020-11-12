@@ -44,11 +44,9 @@ class Database(object):
     @staticmethod
     def Bson_to_Json(datos,nameFile):
         json_str= dumps(datos)
-        print(json_str)
-        json_loads=str(json_str)
-        json_encode=json_loads.encode(encoding='UTF-8',errors='strict')
-        with open('../Templates/'+nameFile+'.json','w') as f:
-            f.write(str(json_encode))
+        json_encode=json_str.encode(encoding='UTF-8',errors='strict')
+        with open('../Templates/'+nameFile+'.json','wb') as f:
+            f.write(json_encode)
         if path.exists('../Templates/'+nameFile+'.json'):
             return '{"statuscode" : 200,"File" : '+nameFile+'}'
         
