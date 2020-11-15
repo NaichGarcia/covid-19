@@ -1,0 +1,2294 @@
+[
+    {
+      "region":"Arica y Parinacota",
+      "region_iso_3166_2":"CL-AP",
+      "region_number":"XV",
+      "Superficie":"16.873 km²",
+      "provincias":[
+        "Arica",
+        "Parinacota"
+      ],
+      "comunas":[
+        {
+          "name":"Arica",
+          "Habitantes":"229.689 ",
+          "Superficie":"4.799 km²",
+          "code":"15101"
+        },
+        {
+          "name":"Camarones",
+          "Habitantes":"1.220",
+          "Superficie":"3.927 km²",
+          "code":"15102"
+        },
+        {
+          "name":"Putre",
+          "Habitantes":"1.462",
+          "Superficie":"5.902 km²",
+          "code":"15201"
+        },
+        {
+          "name":"General Lagos",
+          "Habitantes":"1.179",
+          "Superficie":"2.244 km²",
+          "code":"15202"
+        }
+      ]
+    },
+    {
+      "region":"Tarapacá",
+      "region_number":"I",
+      "region_iso_3166_2":"CL-TA",
+      "Superficie":"41.800 km²",
+      "provincias":[
+        "Iquique",
+        "Tamarugal"
+      ],
+      "comunas":[
+        {
+          "name":"Iquique",
+          "Habitantes":"196.562",
+          "Superficie":"2.242 km²",
+          "code":"01101"
+        },
+        {
+          "name":"Alto Hospicio",
+          "Habitantes":"124.877",
+          "Superficie":"572,9 km²",
+          "code":"01102"
+        },
+        {
+          "name":"Pozo Almonte",
+          "Habitantes":"14.366",
+          "Superficie":"13.766 km²",
+          "code":"01201"
+        },
+        {
+          "name":"Camiña",
+          "Habitantes":"1.275",
+          "Superficie":"2.200 km²",
+          "code":"01402"
+        },
+        {
+          "name":"Colchane",
+          "Habitantes":"1.629",
+          "Superficie":"4016 km²",
+          "code":"01403"
+        },
+        {
+          "name":"Huara",
+          "Habitantes":"2.599",
+          "Superficie":"10.475 km²",
+          "code":"01404"
+        },
+        {
+          "name":"Pica",
+          "Habitantes":"9.296",
+          "Superficie":"8.934 km²",
+          "code":"01405"
+        }
+      ]
+    },
+    {
+      "region":"Antofagasta",
+      "region_number":"II",
+      "region_iso_3166_2":"CL-AN",
+      "Superficie":"126.049 km²",
+      "provincias":[
+        "Antofagasta",
+        "El Loa",
+        "Tocopilla"
+      ],
+      "comunas":[
+        {
+          "name":"Antofagasta",
+          "Habitantes":"423.531",
+          "Superficie":"30.718 km²",
+          "code":"02101"
+        },
+        {
+          "name":"Mejillones",
+          "Habitantes":"13.467",
+          "Superficie":"3.804 km²",
+          "code":"02102"
+        },
+        {
+          "name":"Sierra Gorda",
+          "Habitantes":"10.186",
+          "Superficie":"12.886 km²",
+          "code":"02103"
+        },
+        {
+          "name":"Taltal",
+          "Habitantes":"13.317",
+          "Superficie":"20.405 km²",
+          "code":"02104"
+        },
+        {
+          "name":"Calama",
+          "Habitantes":"182.144",
+          "Superficie":"15.597 km²",
+          "code":"02201"
+        },
+        {
+          "name":"Ollagüe",
+          "Habitantes":"332",
+          "Superficie":"2.964 km²",
+          "code":"02202"
+        },
+        {
+          "name":"San Pedro de Atacama",
+          "Habitantes":"4.969",
+          "Superficie":"23.439 km²",
+          "code":"02203"
+        },
+        {
+          "name":"Tocopilla",
+          "Habitantes":"28.727",
+          "Superficie":"4.039 km²",
+          "code":"02301"
+        },
+        {
+          "name":"María Elena",
+          "Habitantes":"7.530",
+          "Superficie":"12.197 km²",
+          "code":"02302"
+        }
+      ]
+    },
+    {
+      "region":"Atacama",
+      "region_number":"III",
+      "region_iso_3166_2":"CL-AT",
+      "Superficie":"75.176 km²",
+      "provincias":[
+        "Copiapó",
+        "Chañaral",
+        "Huasco"
+      ],
+      "comunas":[
+        {
+          "name":"Copiapó",
+          "Habitantes":"190.027",
+          "Superficie":"16.681 km²",
+          "code":"03101"
+        },
+        {
+          "name":"Caldera",
+          "Habitantes":"14.719",
+          "Superficie":"4.667 km²",
+          "code":"03102"
+        },
+        {
+          "name":"Tierra Amarilla",
+          "Habitantes":"15.725",
+          "Superficie":"11.191 km²",
+          "code":"03103"
+        },
+        {
+          "name":"Chañaral",
+          "Habitantes":"13.410",
+          "Superficie":"5.772 km²",
+          "code":"03201"
+        },
+        {
+          "name":"Diego de Almagro",
+          "Habitantes":"18.664",
+          "Superficie":"18.589 km²",
+          "code":"03202"
+        },
+        {
+          "name":"Vallenar",
+          "Habitantes":"50.346",
+          "Superficie":"7.084 km²",
+          "code":"03301"
+        },
+        {
+          "name":"Alto del Carmen",
+          "Habitantes":"4.840",
+          "Superficie":"5.939 km²",
+          "code":"03302"
+        },
+        {
+          "name":"Freirina",
+          "Habitantes":"3.469",
+          "Superficie":"3.207 km²",
+          "code":"03303"
+        },
+        {
+          "name":"Huasco",
+          "Habitantes":"7.490",
+          "Superficie":"1.601 km²",
+          "code":"03304"
+        }
+      ]
+    },
+    {
+      "region":"Coquimbo",
+      "region_number":"IV",
+      "region_iso_3166_2":"CL-CO",
+      "Superficie":"40.580 km²",
+      "provincias":[
+        "Elqui",
+        "Choapa",
+        "Limarí"
+      ],
+      "comunas":[
+        {
+          "name":"La Serena",
+          "Habitantes":"470.357",
+          "Superficie":"129 km²",
+          "code":"04101"
+        },
+        {
+          "name":"Coquimbo",
+          "Habitantes":"216.623",
+          "Superficie":"1.429 km²",
+          "code":"04102"
+        },
+        {
+          "name":"Andacollo",
+          "Habitantes":"10.288",
+          "Superficie":"310 km²",
+          "code":"04103"
+        },
+        {
+          "name":"La Higuera",
+          "Habitantes":"3.892",
+          "Superficie":"4.158 km²",
+          "code":"04104"
+        },
+        {
+          "name":"Paihuano",
+          "Habitantes":"4.168",
+          "Superficie":"1.495 km²",
+          "code":"04105"
+        },
+        {
+          "name":"Vicuña",
+          "Habitantes":"29.741",
+          "Superficie":"7.694 km²",
+          "code":"04106"
+        },
+        {
+          "name":"Illapel",
+          "Habitantes":"31.304",
+          "Superficie":"2.629 km²",
+          "code":"04201"
+        },
+        {
+          "name":"Canela",
+          "Habitantes":"8.955",
+          "Superficie":"2.197 km²",
+          "code":"04202"
+        },
+        {
+          "name":"Los Vilos",
+          "Habitantes":"23.374",
+          "Superficie":"1.824 km²",
+          "code":"04203"
+        },
+        {
+          "name":"Salamanca",
+          "Habitantes":"29.347",
+          "Superficie":"3.445 km²",
+          "code":"04204"
+        },
+        {
+          "name":"Ovalle",
+          "Habitantes":"89.333",
+          "Superficie":"3.835 km²",
+          "code":"04301"
+        },
+        {
+          "name":"Combarbalá",
+          "Habitantes":"13.322",
+          "Superficie":"2.258 km²",
+          "code":"04302"
+        },
+        {
+          "name":"Monte Patria",
+          "Habitantes":"31.714",
+          "Superficie":"4.337 km²",
+          "code":"04303"
+        },
+        {
+          "name":"Punitaqui",
+          "Habitantes":"10.719",
+          "Superficie":"1.339 km²",
+          "code":"04304"
+        },
+        {
+          "name":"Río Hurtado",
+          "Habitantes":"4049",
+          "Superficie":"2.180 km²",
+          "code":"04305"
+        }
+      ]
+    },
+    {
+      "region":"Valparaíso",
+      "region_number":"V",
+      "region_iso_3166_2":"CL-VS",
+      "Superficie":"16.396 km²",
+      "provincias":[
+        "Valparaíso",
+        "Isla de Pascua",
+        "Los Andes",
+        "Petorca",
+        "Quillota",
+        "San Antonio",
+        "San Felipe de Aconcagua",
+        "Marga Marga"
+      ],
+      "comunas":[
+        {
+          "name":"Valparaíso",
+          "Habitantes":"295.113",
+          "Superficie":"402 km²",
+          "code":"05101"
+        },
+        {
+          "name":"Casablanca",
+          "Habitantes":"21.874",
+          "Superficie":"953 km²",
+          "code":"05102"
+        },
+        {
+          "name":"Concón",
+          "Habitantes":"42.152",
+          "Superficie":"76 km²",
+          "code":"05103"
+        },
+        {
+          "name":"Juan Fernández",
+          "Habitantes":"598",
+          "Superficie":"149 km²",
+          "code":"05104"
+        },
+        {
+          "name":"Puchuncaví",
+          "Habitantes":"18.546",
+          "Superficie":"300 km²",
+          "code":"05105"
+        },
+        {
+          "name":"Quintero",
+          "Habitantes":"21.144",
+          "Superficie":"148 km²",
+          "code":"05107"
+        },
+        {
+          "name":"Viña del Mar",
+          "Habitantes":"361.371",
+          "Superficie":"122 km²",
+          "code":"05109"
+        },
+        {
+          "name":"Isla de Pascua",
+          "Habitantes":"8.277",
+          "Superficie":"163,6 km²",
+          "code":"05201"
+        },
+        {
+          "name":"Los Andes",
+          "Habitantes":"66.708",
+          "Superficie":"1.248 km²",
+          "code":"05301"
+        },
+        {
+          "name":"Calle Larga",
+          "Habitantes":"66.708",
+          "Superficie":"1.248 km²",
+          "code":"05302"
+        },
+        {
+          "name":"Rinconada",
+          "Habitantes":"7.481",
+          "Superficie":"123 km²",
+          "code":"05303"
+        },
+        {
+          "name":"San Esteban",
+          "Habitantes":"18.855",
+          "Superficie":"1.362 km²",
+          "code":"05304"
+        },
+        {
+          "name":"La Ligua",
+          "Habitantes":"35.390",
+          "Superficie":"1.163 km²",
+          "code":"05401"
+        },
+        {
+          "name":"Cabildo",
+          "Habitantes":"19.388",
+          "Superficie":"1.455 km²",
+          "code":"05402"
+        },
+        {
+          "name":"Papudo",
+          "Habitantes":"6.356",
+          "Superficie":"64,27 km²",
+          "code":"05403"
+        },
+        {
+          "name":"Petorca",
+          "Habitantes":"9.826",
+          "Superficie":"1.517 km²",
+          "code":"05404"
+        },
+        {
+          "name":"Zapallar",
+          "Habitantes":"7.339",
+          "Superficie":"288 km²",
+          "code":"05405"
+        },
+        {
+          "name":"Quillota",
+          "Habitantes":"90.517",
+          "Superficie":"302 km²",
+          "code":"05501"
+        },
+        {
+          "name":"La Calera",
+          "Habitantes":"50.554",
+          "Superficie":"60,5 km²",
+          "code":"05502"
+        },
+        {
+          "name":"Hijuelas",
+          "Habitantes":"17.988",
+          "Superficie":"267 km²",
+          "code":"05503"
+        },
+        {
+          "name":"La Cruz",
+          "Habitantes":"22.098",
+          "Superficie":"78 km²",
+          "code":"05504"
+        },
+        {
+          "name":"Nogales",
+          "Habitantes":"22.120",
+          "Superficie":"405 km²",
+          "code":"05506"
+        },
+        {
+          "name":"San Antonio",
+          "Habitantes":"91.350",
+          "Superficie":"405 km²",
+          "code":"05601"
+        },
+        {
+          "name":"Algarrobo",
+          "Habitantes":"13.817",
+          "Superficie":"176 km²",
+          "code":"05602"
+        },
+        {
+          "name":"Cartagena",
+          "Habitantes":"22.738",
+          "Superficie":"246 km²",
+          "code":"05603"
+        },
+        {
+          "name":"El Quisco",
+          "Habitantes":"15.955",
+          "Superficie":"51 km²",
+          "code":"05604"
+        },
+        {
+          "name":"El Tabo",
+          "Habitantes":"13.286",
+          "Superficie":"99 km²",
+          "code":"05605"
+        },
+        {
+          "name":"Santo Domingo",
+          "Habitantes":"10.900",
+          "Superficie":"536 km²",
+          "code":"05606"
+        },
+        {
+          "name":"San Felipe",
+          "Habitantes":"76.844",
+          "Superficie":"186 km²",
+          "code":"05701"
+        },
+        {
+          "name":"Catemu",
+          "Habitantes":"13.998",
+          "Superficie":"361,1 km²",
+          "code":"05702"
+        },
+        {
+          "name":"Llaillay",
+          "Habitantes":"24.608",
+          "Superficie":"349,1 km²",
+          "code":"05703"
+        },
+        {
+          "name":"Panquehue",
+          "Habitantes":"7.273",
+          "Superficie":"122 km²",
+          "code":"05704"
+        },
+        {
+          "name":"Putaendo",
+          "Habitantes":"16.754",
+          "Superficie":"1474 km²",
+          "code":"05705"
+        },
+        {
+          "name":"Santa María",
+          "Habitantes":"15.241",
+          "Superficie":"166,3 km²",
+          "code":"05706"
+        },
+        {
+          "name":"Quilpué",
+          "Habitantes":"151.708",
+          "Superficie":"537 km²",
+          "code":"05801"
+        },
+        {
+          "name":"Limache",
+          "Habitantes":"46.121",
+          "Superficie":"294 km²",
+          "code":"05802"
+        },
+        {
+          "name":"Olmué",
+          "Habitantes":"17.516",
+          "Superficie":"232 km²",
+          "code":"05803"
+        },
+        {
+          "name":"Villa Alemana",
+          "Habitantes":"126.548",
+          "Superficie":"97 km²",
+          "code":"05804"
+        }
+      ]
+    },
+    {
+      "region":"Región del Libertador Gral. Bernardo O'Higgins",
+      "region_number":"VI",
+      "region_iso_3166_2":"CL-LI",
+      "Superficie":"16.387 km²",
+      "provincias":[
+        "Colchagua",
+        "Cachapoal",
+        "Cardenal Caro"
+      ],
+      "comunas":[
+        {
+          "name":"Rancagua",
+          "Habitantes":"241.774",
+          "Superficie":"260 km²",
+          "code":"06101"
+        },
+        {
+          "name":"Codegua",
+          "Habitantes":"12.988",
+          "Superficie":"287 km²",
+          "code":"06102"
+        },
+        {
+          "name":"Coinco",
+          "Habitantes":"7.359",
+          "Superficie":"98 km²",
+          "code":"06103"
+        },
+        {
+          "name":"Coltauco",
+          "Habitantes":"19.597",
+          "Superficie":"225 km²",
+          "code":"06104"
+        },
+        {
+          "name":"Doñihue",
+          "Habitantes":"20.887",
+          "Superficie":"78 km²",
+          "code":"06105"
+        },
+        {
+          "name":"Graneros",
+          "Habitantes":"33.437",
+          "Superficie":"113 km²",
+          "code":"06106"
+        },
+        {
+          "name":"Las Cabras",
+          "Habitantes":"24.640",
+          "Superficie":"749 km²",
+          "code":"06107"
+        },
+        {
+          "name":"Machalí",
+          "Habitantes":"52.505",
+          "Superficie":"2.597 km²",
+          "code":"06108"
+        },
+        {
+          "name":"Malloa",
+          "Habitantes":"13.407",
+          "Superficie":"113 km²",
+          "code":"06109"
+        },
+        {
+          "name":"Mostazal",
+          "Habitantes":"25.343",
+          "Superficie":"524 km²",
+          "code":"06110"
+        },
+        {
+          "name":"Olivar",
+          "Habitantes":"13.608",
+          "Superficie":"45 km²",
+          "code":"06111"
+        },
+        {
+          "name":"Peumo",
+          "Habitantes":"14.313",
+          "Superficie":"153 km²",
+          "code":"06112"
+        },
+        {
+          "name":"Pichidegua",
+          "Habitantes":"19.714",
+          "Superficie":"320 km²",
+          "code":"06113"
+        },
+        {
+          "name":"Quinta de Tilcoco",
+          "Habitantes":"13.002",
+          "Superficie":"93 km²",
+          "code":"06114"
+        },
+        {
+          "name":"Rengo",
+          "Habitantes":"58.825",
+          "Superficie":"755 km²",
+          "code":"06115"
+        },
+        {
+          "name":"Requínoa",
+          "Habitantes":"27.968",
+          "Superficie":"673 km²",
+          "code":"06116"
+        },
+        {
+          "name":"San Vicente",
+          "Habitantes":"46.766",
+          "Superficie":"498 km²",
+          "code":"06117"
+        },
+        {
+          "name":"Pichilemu",
+          "Habitantes":"16.394",
+          "Superficie":"749 km²",
+          "code":"06201"
+        },
+        {
+          "name":"La Estrella",
+          "Habitantes":"3.041",
+          "Superficie":"435 km²",
+          "code":"06202"
+        },
+        {
+          "name":"Litueche",
+          "Habitantes":"6.294",
+          "Superficie":"619 km²",
+          "code":"06203"
+        },
+        {
+          "name":"Marchihue",
+          "Habitantes":"7.308",
+          "Superficie":"660 km²",
+          "code":"06204"
+        },
+        {
+          "name":"Navidad",
+          "Habitantes":"6.641",
+          "Superficie":"300 km²",
+          "code":"06205"
+        },
+        {
+          "name":"Paredones",
+          "Habitantes":"6.188",
+          "Superficie":"562 km²",
+          "code":"06206"
+        },
+        {
+          "name":"San Fernando",
+          "Habitantes":"73.973",
+          "Superficie":"2.441 km²",
+          "code":"06301"
+        },
+        {
+          "name":"Chépica",
+          "Habitantes":"15.037",
+          "Superficie":"503 km²",
+          "code":"06302"
+        },
+        {
+          "name":"Chimbarongo",
+          "Habitantes":"35.399",
+          "Superficie":"498 km²",
+          "code":"06303"
+        },
+        {
+          "name":"Lolol",
+          "Habitantes":"6.811",
+          "Superficie":"597 km²",
+          "code":"06304"
+        },
+        {
+          "name":"Nancagua",
+          "Habitantes":"17.833",
+          "Superficie":"111 km²",
+          "code":"06305"
+        },
+        {
+          "name":"Palmilla",
+          "Habitantes":"12.482",
+          "Superficie":"237 km²",
+          "code":"06306"
+        },
+        {
+          "name":"Peralillo",
+          "Habitantes":"11.007",
+          "Superficie":"283 km²",
+          "code":"06307"
+        },
+        {
+          "name":"Placilla",
+          "Habitantes":"8.738",
+          "Superficie":"147 km²",
+          "code":"06308"
+        },
+        {
+          "name":"Pumanque",
+          "Habitantes":"3.421",
+          "Superficie":"441 km²",
+          "code":"06309"
+        },
+        {
+          "name":"Santa Cruz",
+          "Habitantes":"37.855",
+          "Superficie":"419 km²",
+          "code":"06310"
+        }
+      ]
+    },
+    {
+      "region":"Región del Maule",
+      "region_number":"VII",
+      "region_iso_3166_2":"CL-ML",
+      "Superficie":"30.296 km²",
+      "provincias":[
+        "Talca",
+        "Cauquenes",
+        "Curicó",
+        "Linares"
+      ],
+      "comunas":[
+        {
+          "name":"Talca",
+          "Habitantes":"220.357",
+          "Superficie":"232.007 km²",
+          "code":"07101"
+        },
+        {
+          "name":"Constitución",
+          "Habitantes":"46.068",
+          "Superficie":"1.344 km²",
+          "code":"07102"
+        },
+        {
+          "name":"Curepto",
+          "Habitantes":"9.448",
+          "Superficie":"1.074 km²",
+          "code":"07103"
+        },
+        {
+          "name":"Empedrado",
+          "Habitantes":"4.142",
+          "Superficie":"565 km²",
+          "code":"07104"
+        },
+        {
+          "name":"Maule",
+          "Habitantes":"49.721",
+          "Superficie":"190 km²",
+          "code":"07105"
+        },
+        {
+          "name":"Pelarco",
+          "Habitantes":"8.422",
+          "Superficie":"332 km²",
+          "code":"07106"
+        },
+        {
+          "name":"Pencahue",
+          "Habitantes":"8.245",
+          "Superficie":"957 km²",
+          "code":"07107"
+        },
+        {
+          "name":"Río Claro",
+          "Habitantes":"13.906",
+          "Superficie":"430 km²",
+          "code":"07108"
+        },
+        {
+          "name":"San Clemente",
+          "Habitantes":"43.269",
+          "Superficie":"4.504 km²",
+          "code":"07109"
+        },
+        {
+          "name":"San Rafael",
+          "Habitantes":"9.191",
+          "Superficie":"263 km²",
+          "code":"07110"
+        },
+        {
+          "name":"Cauquenes",
+          "Habitantes":"40.441",
+          "Superficie":"2.126 km²",
+          "code":"07201"
+        },
+        {
+          "name":"Chanco",
+          "Habitantes":"8.928",
+          "Superficie":"530 km²",
+          "code":"07202"
+        },
+        {
+          "name":"Pelluhue",
+          "Habitantes":"7.571",
+          "Superficie":"371 km²",
+          "code":"07203"
+        },
+        {
+          "name":"Curicó",
+          "Habitantes":"149.136",
+          "Superficie":"1328 km²",
+          "code":"07301"
+        },
+        {
+          "name":"Hualañé",
+          "Habitantes":"9.657",
+          "Superficie":"629 km²",
+          "code":"07302"
+        },
+        {
+          "name":"Licantén",
+          "Habitantes":"6.653",
+          "Superficie":"273 km²",
+          "code":"07303"
+        },
+        {
+          "name":"Molina",
+          "Habitantes":"45.976",
+          "Superficie":"1552 km²",
+          "code":"07304"
+        },
+        {
+          "name":"Rauco",
+          "Habitantes":"10.484",
+          "Superficie":"309 km²",
+          "code":"07305"
+        },
+        {
+          "name":"Romeral",
+          "Habitantes":"15.187",
+          "Superficie":"1.597 km²",
+          "code":"07306"
+        },
+        {
+          "name":"Sagrada Familia",
+          "Habitantes":"18.544",
+          "Superficie":"549 km²",
+          "code":"07307"
+        },
+        {
+          "name":"Teno",
+          "Habitantes":"28.921",
+          "Superficie":"618 km²",
+          "code":"07308"
+        },
+        {
+          "name":"Vichuquén",
+          "Habitantes":"4.322",
+          "Superficie":"426 km²",
+          "code":"07309"
+        },
+        {
+          "name":"Linares",
+          "Habitantes":"93.602",
+          "Superficie":"1.466 km²",
+          "code":"07401"
+        },
+        {
+          "name":"Colbún",
+          "Habitantes":"20.765",
+          "Superficie":"2.900 km²",
+          "code":"07402"
+        },
+        {
+          "name":"Longaví",
+          "Habitantes":"30.534",
+          "Superficie":"1.454 km²",
+          "code":"07403"
+        },
+        {
+          "name":"Parral",
+          "Habitantes":"41.637",
+          "Superficie":"1.638 km²",
+          "code":"07404"
+        },
+        {
+          "name":"Retiro",
+          "Habitantes":"19.974",
+          "Superficie":"827 km²",
+          "code":"07405"
+        },
+        {
+          "name":"San Javier",
+          "Habitantes":"45.547",
+          "Superficie":"1.313 km²",
+          "code":"07406"
+        },
+        {
+          "name":"Villa Alegre",
+          "Habitantes":"16.221",
+          "Superficie":"190 km²",
+          "code":"07407"
+        },
+        {
+          "name":"Yerbas Buenas",
+          "Habitantes":"18.081",
+          "Superficie":"262 km²",
+          "code":"07408"
+        }
+      ]
+    },
+    {
+      "region": "Región de Ñuble",
+      "region_number": "XVI",
+      "region_iso_3166_2": "CL-NB",
+      "provincias":[
+        "Diguillín",
+        "Itata",
+        "Punilla"
+      ],
+      "comunas":[
+        {
+          "name":"Chillán",
+          "Habitantes":"184.739",
+          "Superficie":"92 km²",
+          "code":"08401"
+        },
+        {
+          "name":"Chillán Viejo",
+          "Habitantes":"30.907",
+          "Superficie":"292 km²",
+          "code":"08406"
+        },
+        {
+          "name":"Quillón",
+          "Habitantes":"17.485",
+          "Superficie":"423 km²",
+          "code":"08413"
+        },
+        {
+          "name":"Bulnes",
+          "Habitantes":"21.493",
+          "Superficie":"425 km²",
+          "code":"08402"
+        },        
+        {
+          "name":"San Ignacio",
+          "Habitantes":"16.079",
+          "Superficie":"363 km²",
+          "code":"08418"
+        },
+        {
+          "name":"El Carmen",
+          "Habitantes":"12.044",
+          "Superficie":"664 km²",
+          "code":"08407"
+        },
+        {
+          "name":"Pinto",
+          "Habitantes":"10.827",
+          "Superficie":"1.164 km²",
+          "code":"08411"
+        },
+        {
+          "name":"Pemuco",
+          "Habitantes":"8.448",
+          "Superficie":"563 km²",
+          "code":"08410"
+        },
+        {
+          "name":"Yungay",
+          "Habitantes":"17.787",
+          "Superficie":"823 km²",
+          "code":"08421"
+        },
+        {
+          "name":"Quirihue",
+          "Habitantes":"11.594",
+          "Superficie":"589 km²",
+          "code":"08414"
+        },
+        {
+          "name":"Cobquecura",
+          "Habitantes":"5.012",
+          "Superficie":"570 km²",
+          "code":"08403"
+        },
+        {
+          "name":"Ninhue",
+          "Habitantes":"5.213",
+          "Superficie":"401 km²",
+          "code":"08408"
+        },
+        {
+          "name":"Treguaco",
+          "Habitantes":"5.401",
+          "Superficie":"313 km²",
+          "code":"08420"
+        },
+        {
+          "name":"Coelemu",
+          "Habitantes":"15.995",
+          "Superficie":"354 km²",
+          "code":"08404"
+        },
+        {
+          "name":"Portezuelo",
+          "Habitantes":"4.862",
+          "Superficie":"282 km²",
+          "code":"08412"
+        },
+        {
+          "name":"Ránquil",
+          "Habitantes":"5.755",
+          "Superficie":"248 km²",
+          "code":"08415"
+        },
+        {
+          "name":"San Carlos",
+          "Habitantes":"53.024",
+          "Superficie":"874 km²",
+          "code":"08416"
+        },
+        {
+          "name":"Ñiquén",
+          "Habitantes":"11.152",
+          "Superficie":"493 km²",
+          "code":"08409"
+        },
+        {
+          "name":"Coihueco",
+          "Habitantes":"26.881",
+          "Superficie":"3 km²",
+          "code":"08405"
+        },
+        {
+          "name":"San Fabián",
+          "Habitantes":"4.308",
+          "Superficie":"1.568 km²",
+          "code":"08417"
+        },
+        {
+          "name":"San Nicolás",
+          "Habitantes":"11.603",
+          "Superficie":"490 km²",
+          "code":"08419"
+        }
+      ]
+    },
+    {
+      "region":"Región del Biobío",
+      "region_number":"VIII",
+      "region_iso_3166_2":"CL-BI",
+      "Superficie":"23.890 km²",
+      "provincias":[
+        "Concepción",
+        "Arauco",
+        "Biobío",
+        "Ñuble"
+      ],
+      "comunas":[
+        {
+          "name":"Concepción",
+          "Habitantes":"223.574",
+          "Superficie":"222 km²",
+          "code":"08101"
+        },
+        {
+          "name":"Coronel",
+          "Habitantes":"116.262",
+          "Superficie":"279 km²",
+          "code":"08102"
+        },
+        {
+          "name":"Chiguayante",
+          "Habitantes":"85.938",
+          "Superficie":"72 km²",
+          "code":"08103"
+        },
+        {
+          "name":"Florida",
+          "Habitantes":"10.624",
+          "Superficie":"609 km²",
+          "code":"08104"
+        },
+        {
+          "name":"Hualqui",
+          "Habitantes":"24.333",
+          "Superficie":"5.000 km²",
+          "code":"08105"
+        },
+        {
+          "name":"Lota",
+          "Habitantes":"43.535",
+          "Superficie":"136 km²",
+          "code":"08106"
+        },
+        {
+          "name":"Penco",
+          "Habitantes":"47.367",
+          "Superficie":"108 km²",
+          "code":"08107"
+        },
+        {
+          "name":"San Pedro de la Paz",
+          "Habitantes":"131.808",
+          "Superficie":"112 km²",
+          "code":"08108"
+        },
+        {
+          "name":"Santa Juana",
+          "Habitantes":"13.749",
+          "Superficie":"731 km²",
+          "code":"08109"
+        },
+        {
+          "name":"Talcahuano",
+          "Habitantes":"151.749",
+          "Superficie":"92 km²",
+          "code":"08110"
+        },
+        {
+          "name":"Tomé",
+          "Habitantes":"54.946",
+          "Superficie":"494 km²",
+          "code":"08111"
+        },
+        {
+          "name":"Hualpén",
+          "Habitantes":"91.773",
+          "Superficie":"53 km²",
+          "code":"08112"
+        },
+        {
+          "name":"Lebu",
+          "Habitantes":"25.522",
+          "Superficie":"563 km²",
+          "code":"08201"
+        },
+        {
+          "name":"Arauco",
+          "Habitantes":"36.257",
+          "Superficie":"956 km²",
+          "code":"08202"
+        },
+        {
+          "name":"Cañete",
+          "Habitantes":"34.537",
+          "Superficie":"760 km²",
+          "code":"08203"
+        },
+        {
+          "name":"Contulmo",
+          "Habitantes":"6.031",
+          "Superficie":"962 km²",
+          "code":"08204"
+        },
+        {
+          "name":"Curanilahue",
+          "Habitantes":"32.288",
+          "Superficie":"994 km²",
+          "code":"08205"
+        },
+        {
+          "name":"Los Álamos",
+          "Habitantes":"21.035",
+          "Superficie":"599 km²",
+          "code":"08206"
+        },
+        {
+          "name":"Tirúa",
+          "Habitantes":"10.417",
+          "Superficie":"624 km²",
+          "code":"08207"
+        },
+        {
+          "name":"Los Ángeles",
+          "Habitantes":"202.331",
+          "Superficie":"1.748 km²",
+          "code":"08301"
+        },
+        {
+          "name":"Antuco",
+          "Habitantes":"4.073",
+          "Superficie":"1.884 km²",
+          "code":"08302"
+        },
+        {
+          "name":"Cabrero",
+          "Habitantes":"28.573",
+          "Superficie":"640 km²",
+          "code":"08303"
+        },
+        {
+          "name":"Laja",
+          "Habitantes":"22.389",
+          "Superficie":"340 km²",
+          "code":"08304"
+        },
+        {
+          "name":"Mulchén",
+          "Habitantes":"29.627",
+          "Superficie":"1.952 km²",
+          "code":"08305"
+        },
+        {
+          "name":"Nacimiento",
+          "Habitantes":"26.315",
+          "Superficie":"935 km²",
+          "code":"08306"
+        },
+        {
+          "name":"Negrete",
+          "Habitantes":"9.737",
+          "Superficie":"156 km²",
+          "code":"08307"
+        },
+        {
+          "name":"Quilaco",
+          "Habitantes":"3.988",
+          "Superficie":"1.124 km²",
+          "code":"08308"
+        },
+        {
+          "name":"Quilleco",
+          "Habitantes":"9.587",
+          "Superficie":"1.122 km²",
+          "code":"08309"
+        },
+        {
+          "name":"San Rosendo",
+          "Habitantes":"3.412",
+          "Superficie":"92 km²",
+          "code":"08310"
+        },
+        {
+          "name":"Santa Bárbara",
+          "Habitantes":"13.773",
+          "Superficie":"1.255 km²",
+          "code":"08311"
+        },
+        {
+          "name":"Tucapel",
+          "Habitantes":"14.134",
+          "Superficie":"915 km²",
+          "code":"08312"
+        },
+        {
+          "name":"Yumbel",
+          "Habitantes":"21.198",
+          "Superficie":"765 km²",
+          "code":"08313"
+        },
+        {
+          "name":"Alto Biobío",
+          "Habitantes":"5.923",
+          "Superficie":"2.125 km²",
+          "code":"08314"
+        }
+      ]
+    },
+    {
+      "region":"Región de la Araucanía",
+      "region_number":"IX",
+      "region_iso_3166_2":"CL-AR",
+      "Superficie":"31.842 km²",
+      "provincias":[
+        "Cautín",
+        "Malleco"
+      ],
+      "comunas":[
+        {
+          "name":"Temuco",
+          "Habitantes":"282.415",
+          "Superficie":"464 km²",
+          "code":"09101"
+        },
+        {
+          "name":"Carahue",
+          "Habitantes":"24.533",
+          "Superficie":"1.341 km²",
+          "code":"09102"
+        },
+        {
+          "name":"Cunco",
+          "Habitantes":"17.526",
+          "Superficie":"1.907 km²",
+          "code":"09103"
+        },
+        {
+          "name":"Curarrehue",
+          "Habitantes":"7.489",
+          "Superficie":"1.171 km²",
+          "code":"09104"
+        },
+        {
+          "name":"Freire",
+          "Habitantes":"24.606",
+          "Superficie":"935 km²",
+          "code":"09105"
+        },
+        {
+          "name":"Galvarino",
+          "Habitantes":"11.996",
+          "Superficie":"568 km²",
+          "code":"09106"
+        },
+        {
+          "name":"Gorbea",
+          "Habitantes":"14.414",
+          "Superficie":"695 km²",
+          "code":"09107"
+        },
+        {
+          "name":"Lautaro",
+          "Habitantes":"38.013",
+          "Superficie":"901 km²",
+          "code":"09108"
+        },
+        {
+          "name":"Loncoche",
+          "Habitantes":"23.612",
+          "Superficie":"977 km²",
+          "code":"09109"
+        },
+        {
+          "name":"Melipeuco",
+          "Habitantes":"6.138",
+          "Superficie":"1.107 km²",
+          "code":"09110"
+        },
+        {
+          "name":"Nueva Imperial",
+          "Habitantes":"32.510",
+          "Superficie":"732 km²",
+          "code":"09111"
+        },
+        {
+          "name":"Padre las Casa",
+          "Habitantes":"76.126",
+          "Superficie":"401 km²",
+          "code":"09112"
+        },
+        {
+          "name":"Perquenco",
+          "Habitantes":"6.905",
+          "Superficie":"331 km²",
+          "code":"09113"
+        },
+        {
+          "name":"Pitrufquén",
+          "Habitantes":"24.837",
+          "Superficie":"580 km²",
+          "code":"09114"
+        },
+        {
+          "name":"Pucón",
+          "Habitantes":"28.523",
+          "Superficie":"1.249 km²",
+          "code":"09115"
+        },
+        {
+          "name":"Saavedra",
+          "Habitantes":"12.450",
+          "Superficie":"401 km²",
+          "code":"09116"
+        },
+        {
+          "name":"Teodoro Schmidt",
+          "Habitantes":"15.045",
+          "Superficie":"650 km²",
+          "code":"09117"
+        },
+        {
+          "name":"Toltén",
+          "Habitantes":"9.722",
+          "Superficie":"860 km²",
+          "code":"09118"
+        },
+        {
+          "name":"Vilcún",
+          "Habitantes":"28.151",
+          "Superficie":"1.421 km²",
+          "code":"09119"
+        },
+        {
+          "name":"Villarrica",
+          "Habitantes":"55.478",
+          "Superficie":"1.291 km²",
+          "code":"09120"
+        },
+        {
+          "name":"Cholchol",
+          "Habitantes":"11.611",
+          "Superficie":"428 km²",
+          "code":"09121"
+        },
+        {
+          "name":"Angol",
+          "Habitantes":"53.262",
+          "Superficie":"1.194 km²",
+          "code":"09201"
+        },
+        {
+          "name":"Collipulli",
+          "Habitantes":"24.598",
+          "Superficie":"1.296 km²",
+          "code":"09202"
+        },
+        {
+          "name":"Curacautín",
+          "Habitantes":"17.413",
+          "Superficie":"1.664 km²",
+          "code":"09203"
+        },
+        {
+          "name":"Ercilla",
+          "Habitantes":"7.733",
+          "Superficie":"500 km²",
+          "code":"09204"
+        },
+        {
+          "name":"Lonquimay",
+          "Habitantes":"10.251",
+          "Superficie":"3.914 km²",
+          "code":"09205"
+        },
+        {
+          "name":"Los Sauces",
+          "Habitantes":"7.265",
+          "Superficie":"850 km²",
+          "code":"09206"
+        },
+        {
+          "name":"Lumaco",
+          "Habitantes":"9.548",
+          "Superficie":"1.119 km²",
+          "code":"09207"
+        },
+        {
+          "name":"Purén",
+          "Habitantes":"11.779",
+          "Superficie":"465 km²",
+          "code":"09208"
+        },
+        {
+          "name":"Renaico",
+          "Habitantes":"10.250",
+          "Superficie":"267 km²",
+          "code":"09209"
+        },
+        {
+          "name":"Traiguén",
+          "Habitantes":"18.843",
+          "Superficie":"908 km²",
+          "code":"09210"
+        },
+        {
+          "name":"Victoria",
+          "Habitantes":"34.182",
+          "Superficie":"1.256 km²",
+          "code":"09211"
+        }
+      ]
+    },
+    {
+      "region":"Región de los Ríos",
+      "region_number":"XIV",
+      "region_iso_3166_2":"CL-LR",
+      "Superficie":"18.430 km²",
+      "provincias":[
+        "Valdivia",
+        "Ranco"
+      ],
+      "comunas":[
+        {
+          "name":"Valdivia",
+          "Habitantes":"166.080",
+          "Superficie":"1.016 km²",
+          "code":"14101"
+        },
+        {
+          "name":"Corral",
+          "Habitantes":"5.302",
+          "Superficie":"767 km²",
+          "code":"14102"
+        },
+        {
+          "name":"Lanco",
+          "Habitantes":"16.752",
+          "Superficie":"532 km²",
+          "code":"14103"
+        },
+        {
+          "name":"Los Lagos",
+          "Habitantes":"19.634",
+          "Superficie":"951 km²",
+          "code":"14104"
+        },
+        {
+          "name":"Máfil",
+          "Habitantes":"7.095",
+          "Superficie":"583 km²",
+          "code":"14105"
+        },
+        {
+          "name":"Mariquina",
+          "Habitantes":"21.278",
+          "Superficie":"1.320 km²",
+          "code":"14106"
+        },
+        {
+          "name":"Paillaco",
+          "Habitantes":"20.188",
+          "Superficie":"896 km²",
+          "code":"14107"
+        },
+        {
+          "name":"Panguipulli",
+          "Habitantes":"34.539",
+          "Superficie":"3.292 km²",
+          "code":"14108"
+        },
+        {
+          "name":"La Unión",
+          "Habitantes":"38.036",
+          "Superficie":"2.137 km²",
+          "code":"14201"
+        },
+        {
+          "name":"Futrono",
+          "Habitantes":"14.665",
+          "Superficie":"2.268 km²",
+          "code":"14202"
+        },
+        {
+          "name":"Lago Ranco",
+          "Habitantes":"9.896",
+          "Superficie":"1.763 km²",
+          "code":"14203"
+        },
+        {
+          "name":"Río Bueno",
+          "Habitantes":"31.372",
+          "Superficie":"2.212 km²",
+          "code":"14204"
+        }
+      ]
+    },
+    {
+      "region":"Región de los Lagos",
+      "region_number":"X",
+      "region_iso_3166_2":"CL-LL",
+      "Superficie":"48.584 km²",
+      "provincias":[
+        "Llanquihue",
+        "Chiloé",
+        "Osorno",
+        "Palena"
+      ],
+      "comunas":[
+        {
+          "name":"Puerto Montt",
+          "Habitantes":"245.902",
+          "Superficie":"1.673 km²",
+          "code":"10101"
+        },
+        {
+          "name":"Calbuco",
+          "Habitantes":"33.985",
+          "Superficie":"591 km²",
+          "code":"10102"
+        },
+        {
+          "name":"Cochamó",
+          "Habitantes":"4.023",
+          "Superficie":"3.910 km²",
+          "code":"10103"
+        },
+        {
+          "name":"Fresia",
+          "Habitantes":"12.261",
+          "Superficie":"1.279 km²",
+          "code":"10104"
+        },
+        {
+          "name":"Frutillar",
+          "Habitantes":"18.428",
+          "Superficie":"831 km²",
+          "code":"10105"
+        },
+        {
+          "name":"Los Muermos",
+          "Habitantes":"17.068",
+          "Superficie":"1.246 km²",
+          "code":"10106"
+        },
+        {
+          "name":"Llanquihue",
+          "Habitantes":"17.591",
+          "Superficie":"421 km²",
+          "code":"10107"
+        },
+        {
+          "name":"Maullín",
+          "Habitantes":"14.216",
+          "Superficie":"861 km²",
+          "code":"10108"
+        },
+        {
+          "name":"Puerto Varas",
+          "Habitantes":"44.578",
+          "Superficie":"4.065 km²",
+          "code":"10109"
+        },
+        {
+          "name":"Castro",
+          "Habitantes":"43.807",
+          "Superficie":"427 km²",
+          "code":"10201"
+        },
+        {
+          "name":"Ancud",
+          "Habitantes":"38.991",
+          "Superficie":"1.252 km²",
+          "code":"10202"
+        },
+        {
+          "name":"Chonchi",
+          "Habitantes":"14.858",
+          "Superficie":"1.362 km²",
+          "code":"10203"
+        },
+        {
+          "name":"Curaco de Vélez",
+          "Habitantes":"3.829",
+          "Superficie":"80 km²",
+          "code":"10204"
+        },
+        {
+          "name":"Dalcahue",
+          "Habitantes":"13.762",
+          "Superficie":"1.239 km²",
+          "code":"10205"
+        },
+        {
+          "name":"Puqueldón",
+          "Habitantes":"3.921",
+          "Superficie":"96 km²",
+          "code":"10206"
+        },
+        {
+          "name":"Queilén",
+          "Habitantes":"5.385",
+          "Superficie":"332 km²",
+          "code":"10207"
+        },
+        {
+          "name":"Quellón",
+          "Habitantes":"27.192",
+          "Superficie":"3.244 km²",
+          "code":"10208"
+        },
+        {
+          "name":"Quemchi",
+          "Habitantes":"8.352",
+          "Superficie":"440 km²",
+          "code":"10209"
+        },
+        {
+          "name":"Quinchao",
+          "Habitantes":"8.088",
+          "Superficie":"158 km²",
+          "code":"10210"
+        },
+        {
+          "name":"Osorno",
+          "Habitantes":"161.460",
+          "Superficie":"951 km²",
+          "code":"10301"
+        },
+        {
+          "name":"Puerto Octay",
+          "Habitantes":"8.999",
+          "Superficie":"1.796 km²",
+          "code":"10302"
+        },
+        {
+          "name":"Purranque",
+          "Habitantes":"20.369",
+          "Superficie":"1.459 km²",
+          "code":"10303"
+        },
+        {
+          "name":"Puyehue",
+          "Habitantes":"11.667",
+          "Superficie":"1.598 km²",
+          "code":"10304"
+        },
+        {
+          "name":"Río Negro",
+          "Habitantes":"14.085",
+          "Superficie":"1.266 km²",
+          "code":"10305"
+        },
+        {
+          "name":"San Juan de la Costa",
+          "Habitantes":"7.512",
+          "Superficie":"1.517 km²",
+          "code":"10306"
+        },
+        {
+          "name":"San Pablo",
+          "Habitantes":"10.030",
+          "Superficie":"637 km²",
+          "code":"10307"
+        },
+        {
+          "name":"Chaitén",
+          "Habitantes":"5.071",
+          "Superficie":"8.471 km²",
+          "code":"10401"
+        },
+        {
+          "name":"Futaleufú",
+          "Habitantes":"2.623",
+          "Superficie":"1.280 km²",
+          "code":"10402"
+        },
+        {
+          "name":"Hualaihué",
+          "Habitantes":"8.944",
+          "Superficie":"2.788 km²",
+          "code":"10403"
+        },
+        {
+          "name":"Palena",
+          "Habitantes":"1.711",
+          "Superficie":"2.764 km²",
+          "code":"10404"
+        }
+      ]
+    },
+    {
+      "region":"Región Aysén del Gral. Carlos Ibañez del Campo",
+      "region_number":"XI",
+      "region_iso_3166_2":"CL-AI",
+      "Superficie":"108.494 km²",
+      "provincias":[
+        "Coyhaique",
+        "Aisén",
+        "Capitán Pratt",
+        "General Carrera"
+      ],
+      "comunas":[
+        {
+          "name":"Coyhaique",
+          "Habitantes":"57.818",
+          "Superficie":"7290 km²",
+          "code":"11101"
+        },
+        {
+          "name":"Lago Verde",
+          "Habitantes":"852",
+          "Superficie":"4.560 km²",
+          "code":"11102"
+        },
+        {
+          "name":"Aysén",
+          "Habitantes":"23.959",
+          "Superficie":"29.796 km²",
+          "code":"11201"
+        },
+        {
+          "name":"Cisnes",
+          "Habitantes":"6.517",
+          "Superficie":"16.093 km²",
+          "code":"11202"
+        },
+        {
+          "name":"Guaitecas",
+          "Habitantes":"1.843",
+          "Superficie":"621 km²",
+          "code":"11203"
+        },
+        {
+          "name":"Cochrane",
+          "Habitantes":"3.490",
+          "Superficie":"8.500 km²",
+          "code":"11301"
+        },
+        {
+          "name":"O’Higgins",
+          "Habitantes":"625",
+          "Superficie":"8.182 km²",
+          "code":"11302"
+        },
+        {
+          "name":"Tortel",
+          "Habitantes":"523",
+          "Superficie":"19.711 km²",
+          "code":"11303"
+        },
+        {
+          "name":"Chile Chico",
+          "Habitantes":"4.865",
+          "Superficie":"5.737 km²",
+          "code":"11401"
+        },
+        {
+          "name":"Río Ibáñez",
+          "Habitantes":"2.666",
+          "Superficie":"5.997 km²",
+          "code":"11402"
+        }
+      ]
+    },
+    {
+      "region":"Región de Magallanes y de la Antártica Chilena",
+      "region_number":"XII",
+      "region_iso_3166_2":"CL-MA",
+      "Superficie":"132.291 km²",
+      "provincias":[
+        "Magallanes",
+        "Antártica Chilena",
+        "Tierra del Fuego",
+        "Última Esperanza"
+      ],
+      "comunas":[
+        {
+          "name":"Punta Arenas",
+          "Habitantes":"131.592",
+          "Superficie":"17.846 km²",
+          "code":"12101"
+        },
+        {
+          "name":"Laguna Blanca",
+          "Habitantes":"274",
+          "Superficie":"3.695 km²",
+          "code":"12102"
+        },
+        {
+          "name":"Río Verde",
+          "Habitantes":"617",
+          "Superficie":"17.248 km²",
+          "code":"12103"
+        },
+        {
+          "name":"San Gregorio",
+          "Habitantes":"799",
+          "Superficie":"6.884 km²",
+          "code":"12104"
+        },
+        {
+          "name":"Cabo de Hornos (Ex. Navarino)",
+          "Habitantes":"2.063",
+          "Superficie":"15.570 km²",
+          "code":"12201"
+        },
+        {
+          "name":"Antártica",
+          "Habitantes":"138",
+          "Superficie":"1,25 millones km²",
+          "code":"12202"
+        },
+        {
+          "name":"Porvenir",
+          "Habitantes":"6.801",
+          "Superficie":"9.707 km²",
+          "code":"12301"
+        },
+        {
+          "name":"Primavera",
+          "Habitantes":"1.158",
+          "Superficie":"3.500 km²",
+          "code":"12302"
+        },
+        {
+          "name":"Timaukel",
+          "Habitantes":"405",
+          "Superficie":"12.850 km²",
+          "code":"12303"
+        },
+        {
+          "name":"Natales",
+          "Habitantes":"21.477",
+          "Superficie":"49.924 km²",
+          "code":"12401"
+        },
+        {
+          "name":"Torres del Paine",
+          "Habitantes":"1.209",
+          "Superficie":"6.630 km²",
+          "code":"12402"
+        }
+      ]
+    },
+    {
+      "region":"Región Metropolitana de Santiago",
+      "region_number":"XIII",
+      "region_iso_3166_2":"CL-RM",
+      "Superficie":"15.403 km²",
+      "provincias":[
+        "Santiago",
+        "Cordillera",
+        "Chacabuco",
+        "Maipo",
+        "Mellipilla",
+        "Talagante"
+      ],
+      "comunas":[
+        {
+          "name":"Santiago",
+          "Habitantes":"404.495",
+          "Superficie":"23 km²",
+          "code":"13101"
+        },
+        {
+          "name":"Cerrillos",
+          "Habitantes":"80.832",
+          "Superficie":"21 km²",
+          "code":"13102"
+        },
+        {
+          "name":"Cerro Navia",
+          "Habitantes":"132.622",
+          "Superficie":"11 km²",
+          "code":"13103"
+        },
+        {
+          "name":"Conchalí",
+          "Habitantes":"126.955",
+          "Superficie":"11 km²",
+          "code":"13104"
+        },
+        {
+          "name":"El Bosque",
+          "Habitantes":"162.505",
+          "Superficie":"14 km²",
+          "code":"13105"
+        },
+        {
+          "name":"Estación Central",
+          "Habitantes":"147.041",
+          "Superficie":"15 km²",
+          "code":"13106"
+        },
+        {
+          "name":"Huechuraba",
+          "Habitantes":"98.671",
+          "Superficie":"45 km²",
+          "code":"13107"
+        },
+        {
+          "name":"Independencia",
+          "Habitantes":"100.281",
+          "Superficie":"7 km²",
+          "code":"13108"
+        },
+        {
+          "name":"La Cisterna",
+          "Habitantes":"90.119",
+          "Superficie":"10 km²",
+          "code":"13109"
+        },
+        {
+          "name":"La Florida",
+          "Habitantes":"366.916",
+          "Superficie":"70 km²",
+          "code":"13110"
+        },
+        {
+          "name":"La Granja",
+          "Habitantes":"116.571",
+          "Superficie":"10 km²",
+          "code":"13111"
+        },
+        {
+          "name":"La Pintana",
+          "Habitantes":"177.335",
+          "Superficie":"31 km²",
+          "code":"13112"
+        },
+        {
+          "name":"La Reina",
+          "Habitantes":"92.787",
+          "Superficie":"23 km²",
+          "code":"13113"
+        },
+        {
+          "name":"Las Condes",
+          "Habitantes":"294.838",
+          "Superficie":"1.130 km²",
+          "code":"13114"
+        },
+        {
+          "name":"Lo Barnechea",
+          "Habitantes":"105.833",
+          "Superficie":"1.024 km²",
+          "code":"13115"
+        },
+        {
+          "name":"Lo Espejo",
+          "Habitantes":"98.804",
+          "Superficie":"8.001 km²",
+          "code":"13116"
+        },
+        {
+          "name":"Lo Prado",
+          "Habitantes":"96.249",
+          "Superficie":"7 km²",
+          "code":"13117"
+        },
+        {
+          "name":"Macul",
+          "Habitantes":"116.534",
+          "Superficie":"13 km²",
+          "code":"13118"
+        },
+        {
+          "name":"Maipú",
+          "Habitantes":"521.627",
+          "Superficie":"135 km²",
+          "code":"13119"
+        },
+        {
+          "name":"Ñuñoa",
+          "Habitantes":"208.237",
+          "Superficie":"17 km²",
+          "code":"13120"
+        },
+        {
+          "name":"Pedro Aguirre Cerda",
+          "Habitantes":"101.174",
+          "Superficie":"10 km²",
+          "code":"13121"
+        },
+        {
+          "name":"Peñalolén",
+          "Habitantes":"241.599",
+          "Superficie":"54 km²",
+          "code":"13122"
+        },
+        {
+          "name":"Providencia",
+          "Habitantes":"142.079",
+          "Superficie":"14 km²",
+          "code":"13123"
+        },
+        {
+          "name":"Pudahuel",
+          "Habitantes":"230.293",
+          "Superficie":"197 km²",
+          "code":"13124"
+        },
+        {
+          "name":"Quilicura",
+          "Habitantes":"210.410",
+          "Superficie":"58 km²",
+          "code":"13125"
+        },
+        {
+          "name":"Quinta Normal",
+          "Habitantes":"110.026",
+          "Superficie":"12 km²",
+          "code":"13126"
+        },
+        {
+          "name":"Recoleta",
+          "Habitantes":"157.851",
+          "Superficie":"16 km²",
+          "code":"13127"
+        },
+        {
+          "name":"Renca",
+          "Habitantes":"147.151",
+          "Superficie":"24 km²",
+          "code":"13128"
+        },
+        {
+          "name":"San Joaquín",
+          "Habitantes":"94.492",
+          "Superficie":"10 km²",
+          "code":"13129"
+        },
+        {
+          "name":"San Miguel",
+          "Habitantes":"107.954",
+          "Superficie":"10 km²",
+          "code":"13130"
+        },
+        {
+          "name":"San Ramón",
+          "Habitantes":"82.900",
+          "Superficie":"7 km²",
+          "code":"13131"
+        },
+        {
+          "name":"Vitacura",
+          "Habitantes":"85.384",
+          "Superficie":"28 km²",
+          "code":"13132"
+        },
+        {
+          "name":"Puente Alto",
+          "Habitantes":"568.106",
+          "Superficie":"88 km²",
+          "code":"13201"
+        },
+        {
+          "name":"Pirque",
+          "Habitantes":"26.521",
+          "Superficie":"445 km²",
+          "code":"13202"
+        },
+        {
+          "name":"San José de Maipo",
+          "Habitantes":"18.189",
+          "Superficie":"4.995 km²",
+          "code":"13203"
+        },
+        {
+          "name":"Colina",
+          "Habitantes":"146.207",
+          "Superficie":"971 km²",
+          "code":"13301"
+        },
+        {
+          "name":"Lampa",
+          "Habitantes":"102.034",
+          "Superficie":"452 km²",
+          "code":"13302"
+        },
+        {
+          "name":"Tiltil",
+          "Habitantes":"19.312",
+          "Superficie":"653 km²",
+          "code":"13303"
+        },
+        {
+          "name":"San Bernardo",
+          "Habitantes":"301.313",
+          "Superficie":"155 km²",
+          "code":"13401"
+        },
+        {
+          "name":"Buin",
+          "Habitantes":"96.614",
+          "Superficie":"214 km²",
+          "code":"13402"
+        },
+        {
+          "name":"Calera de Tango",
+          "Habitantes":"25.392",
+          "Superficie":"73 km²",
+          "code":"13403"
+        },
+        {
+          "name":"Paine",
+          "Habitantes":"72.759",
+          "Superficie":"820 km²",
+          "code":"13404"
+        },
+        {
+          "name":"Melipilla",
+          "Habitantes":"123.627",
+          "Superficie":"1.345 km²",
+          "code":"13501"
+        },
+        {
+          "name":"Alhué",
+          "Habitantes":"6.444",
+          "Superficie":"845 km²",
+          "code":"13502"
+        },
+        {
+          "name":"Curacaví",
+          "Habitantes":"32.579",
+          "Superficie":"693 km²",
+          "code":"13503"
+        },
+        {
+          "name":"María Pinto",
+          "Habitantes":"13.590",
+          "Superficie":"393 km²",
+          "code":"13504"
+        },
+        {
+          "name":"San Pedro",
+          "Habitantes":"9.726",
+          "Superficie":"788 km²",
+          "code":"13505"
+        },
+        {
+          "name":"Talagante",
+          "Habitantes":"74.237",
+          "Superficie":"126 km²",
+          "code":"13601"
+        },
+        {
+          "name":"El Monte",
+          "Habitantes":"147.041",
+          "Superficie":"118 km²",
+          "code":"13602"
+        },
+        {
+          "name":"Isla de Maipo",
+          "Habitantes":"36.219",
+          "Superficie":"189 km²",
+          "code":"13603"
+        },
+        {
+          "name":"Padre Hurtado",
+          "Habitantes":"63.250",
+          "Superficie":"81 km²",
+          "code":"13604"
+        },
+        {
+          "name":"Peñaflor",
+          "Habitantes":"90.201",
+          "Superficie":"69 km²",
+          "code":"13605"
+        }
+      ]
+    }
+  ]
