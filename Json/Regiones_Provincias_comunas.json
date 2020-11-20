@@ -573,7 +573,7 @@
       ]
     },
     {
-      "region":"Región del Libertador Gral. Bernardo O'Higgins",
+      "region":"O’Higgins",
       "region_number":"VI",
       "region_iso_3166_2":"CL-LI",
       "Superficie":"16.387 km²",
@@ -784,7 +784,7 @@
       ]
     },
     {
-      "region":"Región del Maule",
+      "region":"Maule",
       "region_number":"VII",
       "region_iso_3166_2":"CL-ML",
       "Superficie":"30.296 km²",
@@ -978,7 +978,7 @@
       ]
     },
     {
-      "region": "Región de Ñuble",
+      "region": "Ñuble",
       "region_number": "XVI",
       "region_iso_3166_2": "CL-NB",
       "provincias":[
@@ -1116,7 +1116,7 @@
       ]
     },
     {
-      "region":"Región del Biobío",
+      "region":"Biobío",
       "region_number":"VIII",
       "region_iso_3166_2":"CL-BI",
       "Superficie":"23.890 km²",
@@ -1328,7 +1328,7 @@
       ]
     },
     {
-      "region":"Región de la Araucanía",
+      "region":"Araucanía",
       "region_number":"IX",
       "region_iso_3166_2":"CL-AR",
       "Superficie":"31.842 km²",
@@ -1532,7 +1532,7 @@
       ]
     },
     {
-      "region":"Región de los Ríos",
+      "region":"Los Ríos",
       "region_number":"XIV",
       "region_iso_3166_2":"CL-LR",
       "Superficie":"18.430 km²",
@@ -1616,7 +1616,7 @@
       ]
     },
     {
-      "region":"Región de los Lagos",
+      "region":"Los Lagos",
       "region_number":"X",
       "region_iso_3166_2":"CL-LL",
       "Superficie":"48.584 km²",
@@ -1810,7 +1810,7 @@
       ]
     },
     {
-      "region":"Región Aysén del Gral. Carlos Ibañez del Campo",
+      "region":"Aysén",
       "region_number":"XI",
       "region_iso_3166_2":"CL-AI",
       "Superficie":"108.494 km²",
@@ -1884,7 +1884,7 @@
       ]
     },
     {
-      "region":"Región de Magallanes y de la Antártica Chilena",
+      "region":"Magallanes",
       "region_number":"XII",
       "region_iso_3166_2":"CL-MA",
       "Superficie":"132.291 km²",
@@ -1964,7 +1964,7 @@
       ]
     },
     {
-      "region":"Región Metropolitana de Santiago",
+      "region":"Metropolitana",
       "region_number":"XIII",
       "region_iso_3166_2":"CL-RM",
       "Superficie":"15.403 km²",
