@@ -31,7 +31,7 @@ def Graficos_Mario():
             columns=region
         )
         info.rename(columns={'positividad': region[e]}, inplace=True)
-    st.line_chart(info, 800, 400)
+        st.line_chart(info, 800, 400)
 
     # Posibilida de graficar en base a un mapa pero faltaria latitud y longitud para las zonas
     # map_data = pd.DataFrame(
