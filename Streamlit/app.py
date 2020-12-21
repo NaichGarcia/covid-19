@@ -16,22 +16,23 @@ def Graficos_Pcr_Nacional():
     # From Json_PCR_Regional to Streamlit Table
     """
              )
-    st.write(df_from_json[['Region', 'positividad', 'fecha']])
     region = st.sidebar.multiselect("Elegir regiones",
                                     ["Atacama", "Ñuble", "Magallanes", "Arica y Parinacota", "Aysén", "Coquimbo",
                                      "Araucanía", "Los Lagos", "Los Ríos", "Magallanes", "Tarapacá", "Valparaíso",
                                      "Biobío", "O’Higgins", "Maule", "Metropolitana","Todas las Regiones"],["Araucanía"])
+
     for e in range(len(region)):
         info = df_from_json[['positividad']].loc[
             (df_from_json['Region'] == str(region[e]))]
         info.reset_index(drop=True, inplace=True)
+        info.rename(columns={'positividad': region[e]}, inplace=True)
 
         chart_data = pd.DataFrame(
             data=info,
             columns=region
         )
-        info.rename(columns={'positividad': region[e]}, inplace=True)
-        st.line_chart(info, 800, 400)
+
+        st.line_chart(chart_data, 800, 400)
 
     # Posibilida de graficar en base a un mapa pero faltaria latitud y longitud para las zonas
     # map_data = pd.DataFrame(
