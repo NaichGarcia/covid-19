@@ -4,23 +4,6 @@ import streamlit as st
 import json
 import numpy as np
 
-#Inicializar nuestra conexión
-def Graficos_Jorge():
-    #db.initialize('covid')
-    #DataFrame
-    df = pd.read_json('../Templates/CollectionQuerry.json',encoding='UTF-8',)
-    df=df.drop(['_id'],axis='columns')#Borra la columna _id (creada por el Mongo)
-   # print(df)
-    #TABLA DE DATOS
-    st.dataframe(df)#Crea una tabla en streamlit dataframe
-    st.table(df.style.highlight_min())#Crea una tabla estatica en streamlit y le da un colocr a los maximos valores
-    df2=pd.read_json('../Json/Regiones_Provincias_comunas.json',orient='records')
-    st.dataframe(df2)
-   # print(df2)
-    with open('../Json/Regiones_Provincias_comunas.json', encoding='utf-8') as f:
-        data = json.load(f)
-    st.json(data)#->Jorge esto es para ti, ahí resolví el problema que tenias de leer archivos json en codeados en utf-8
-
 #Prueba de graficos con json
 def Graficos_Mario():
     st.sidebar.title('Navegación')
