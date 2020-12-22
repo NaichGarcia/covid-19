@@ -37,7 +37,7 @@ class Database(object):
     def Get_Data_from_database(collection):
         bd = Database.DATABASE[collection]
         #Consulta limitada a 2 objetos
-        datos=bd.find().limit(2)
+        datos=bd.find()
 
         return datos
 

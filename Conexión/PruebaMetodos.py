@@ -6,7 +6,7 @@ import pandas as pd
 db.initialize('DashBoard')
 
 #Nombre de la colección a crear o usar
-collection='PCR_Regional'
+collection='PCR_Comuna'
 
 
 #Obtención de las bases de datos de mongo (SOLO PRUEBA)
@@ -26,7 +26,7 @@ data_dict = df.to_dict("records")
 #print(result)
 
 #x=db.Bson_to_Json(db.Get_Data_from_database(collection),'Prueba')
-z=db.Bson_to_Json(db.Get_Data_from_database(collection),'PCR_Regional')
+z=db.Bson_to_Json(db.Get_Data_from_database(collection),'PCR_Comunal')
 print(z)
 #URL = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto54/r.provincial.csv"
 #df = pd.read_csv(URL)

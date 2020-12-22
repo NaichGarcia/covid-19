@@ -1,15 +1,20 @@
 # -*- coding: utf-8 -*-
 import sys
-sys.path.insert(1,'/covid-19/Conexión')
-#from Conexion import DataBase
-#import pymongo as pym
+from functiones import Funciones as fns
+import pymongo as pym
 import pandas as pd
 import streamlit as st
+st.beta_set_page_config(
+    page_title="Covid-19 Chile",
+ 	layout="centered",
+ 	initial_sidebar_state="expanded",
+)
 
-st.sidebar.title("-Dashboard-Covid-19")
+
+st.sidebar.title(" Dashboard Covid-19")
 datos = st.sidebar.radio(
     "",
-    ("Indicadores", "Positividad Test PCR(%)", "Comparacion Entre Comunas o Regiones")
+    ( "Comparación Regiones","Comparacion entre Comunas")
 )
 #Si selecciona Indicadores
 if datos == "Indicadores":
@@ -22,7 +27,9 @@ if datos == "Positividad Test PCR(%)":
     st.sidebar.title("Positividad Test PCR(%)")
 
 #Si selecciona Comparacion Entre Comunas o Regiones
-if datos == "Comparacion Entre Comunas o Regiones":
+if datos == "Comparación Regiones":
     #script.main()
-    st.sidebar.title("Comparacion Entre Comunas o Regiones")
+    fns.Graphic_to_Regions()
+if datos=="Comparacion entre Comunas":
+    fns.Graphic_to_Communs()
 
